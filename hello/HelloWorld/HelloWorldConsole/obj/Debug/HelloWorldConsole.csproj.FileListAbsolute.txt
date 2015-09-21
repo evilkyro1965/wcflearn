@@ -1,0 +1,5 @@
+D:\source_code\1_Learn\csharp\wcf\hello\HelloWorld\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+D:\source_code\1_Learn\csharp\wcf\hello\HelloWorld\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+D:\source_code\1_Learn\csharp\wcf\hello\HelloWorld\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+D:\source_code\1_Learn\csharp\wcf\hello\HelloWorld\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+D:\source_code\1_Learn\csharp\wcf\hello\HelloWorld\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb

@@ -1,0 +1,1 @@
+D:\source_code\1_Learn\csharp\1 ASP PLATFORM\HelloWorld\bin\Debug\HelloWorld.exe.config

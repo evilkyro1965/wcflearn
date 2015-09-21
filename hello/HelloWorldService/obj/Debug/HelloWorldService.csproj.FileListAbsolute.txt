@@ -1,0 +1,5 @@
+D:\source_code\1_Learn\csharp\1 ASP PLATFORM\HelloWorldService\bin\Debug\HelloWorldService.dll
+D:\source_code\1_Learn\csharp\1 ASP PLATFORM\HelloWorldService\bin\Debug\HelloWorldService.pdb
+D:\source_code\1_Learn\csharp\1 ASP PLATFORM\HelloWorldService\obj\Debug\HelloWorldService.csprojResolveAssemblyReference.cache
+D:\source_code\1_Learn\csharp\1 ASP PLATFORM\HelloWorldService\obj\Debug\HelloWorldService.dll
+D:\source_code\1_Learn\csharp\1 ASP PLATFORM\HelloWorldService\obj\Debug\HelloWorldService.pdb
