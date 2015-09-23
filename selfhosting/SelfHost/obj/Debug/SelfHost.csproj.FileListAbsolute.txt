@@ -1,0 +1,8 @@
+D:\source_code\1_Learn\csharp\wcf\selfhosting\SelfHost\bin\Debug\SelfHost.exe.config
+D:\source_code\1_Learn\csharp\wcf\selfhosting\SelfHost\bin\Debug\SelfHost.exe
+D:\source_code\1_Learn\csharp\wcf\selfhosting\SelfHost\bin\Debug\SelfHost.pdb
+D:\source_code\1_Learn\csharp\wcf\selfhosting\SelfHost\bin\Debug\SelfHosting.dll
+D:\source_code\1_Learn\csharp\wcf\selfhosting\SelfHost\bin\Debug\SelfHosting.pdb
+D:\source_code\1_Learn\csharp\wcf\selfhosting\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache
+D:\source_code\1_Learn\csharp\wcf\selfhosting\SelfHost\obj\Debug\SelfHost.exe
+D:\source_code\1_Learn\csharp\wcf\selfhosting\SelfHost\obj\Debug\SelfHost.pdb

@@ -1,0 +1,4 @@
+D:\source_code\1_Learn\csharp\wcf\selfhosting\SelfHosting\bin\Debug\SelfHosting.dll
+D:\source_code\1_Learn\csharp\wcf\selfhosting\SelfHosting\bin\Debug\SelfHosting.pdb
+D:\source_code\1_Learn\csharp\wcf\selfhosting\SelfHosting\obj\Debug\SelfHosting.dll
+D:\source_code\1_Learn\csharp\wcf\selfhosting\SelfHosting\obj\Debug\SelfHosting.pdb
